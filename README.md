@@ -1,10 +1,9 @@
-# Gestor de Cuentas de Banco con Constructores en Java - POO
-
+# Gestor de Cuentas de Banco con Constructores en Java
 ## Datos del estudiante
-  **Nombre:** Stalin Mendieta
-  **Segundo Nivel - 2025**
-  **Tarea Semana 7 - POO: Implementación de Constructores en Java**
-  **Tema:** Gestor de Cuentas de Banco con Constructores en Java
+  **Nombre:** Stalin Mendieta  
+  **Segundo Nivel - 2025**  
+  **Tarea Semana 7 - POO: Implementación de Constructores en Java**  
+  **Tema:** Gestor de Cuentas de Banco con Constructores en Java  
 
 ## Descripción del programa
 
@@ -14,7 +13,7 @@ Este programa en Java implementa una aplicación orientada a objetos para gestio
 - Constructores parametrizados
 - Sobrecarga de constructores
 
-La clase `CuentaBancaria` contiene atributos como número de cuenta, titular, saldo, tipo de cuenta y nombre del banco. El objetivo es demostrar cómo inicializar correctamente los atributos de un objeto mediante constructores, aplicando principios como el **encapsulamiento** y el uso de la palabra clave `this`.
+La clase `CuentaBancaria` contiene atributos como número de cuenta, titular, saldo, tipo de cuenta y nombre del banco. El objetivo es demostrar cómo inicializar correctamente los atributos de un objeto mediante constructores, aplicando principios como el **encapsulamiento** y el uso de la palabra clave `this`.  
 Desde la clase `GestorCuentasJava` se crean varias instancias de la clase `CuentaBancaria` utilizando los diferentes constructores. Luego, se llama al método `mostrarInformacion()` para visualizar los datos almacenados en cada cuenta.
 
 ## Ejemplo de uso

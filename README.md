@@ -1,6 +1,6 @@
 # Gestor de Cuentas de Banco con Constructores en Java
 ## Datos del estudiante
-  **Nombre:** Stalin Mendieta  
+  **Nombre:** Stalin Gabriel Mendieta López  
   **Segundo Nivel - 2025**  
   **Tarea Semana 7 - POO: Implementación de Constructores en Java**  
   **Tema:** Gestor de Cuentas de Banco con Constructores en Java  
